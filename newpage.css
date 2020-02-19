@@ -1,0 +1,53 @@
+.login{
+    float: right;
+    border-radius: 20PX;
+    text-decoration: none;
+    color: orangered;
+    border-color: hotpink;
+
+     
+}
+body{
+    color: lightslategray;
+    font-size: 15px;
+    font-style: none;
+    color: mediumslateblue;
+    
+    
+
+}
+h1{
+    color: mediumorchid;
+}
+.signup{
+    float: right;
+    margin-right: 5px;
+    text-decoration: none; 
+    border-radius: 30PX; 
+    color: royalblue;
+    border-color: green;
+        
+    
+
+}
+button{
+    text-decoration: none;
+    color: mediumvioletred;
+    
+
+}
+.submit{
+    text-decoration: none;
+    border-radius: 100PX;
+    border-color: lawngreen;
+    border-style:double;
+}
+input{
+    border-radius: 100px;
+    border-color: yellow;
+    background-color:bisque;    
+}
+
+
+
+

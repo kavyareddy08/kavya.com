@@ -1,0 +1,21 @@
+form{
+    width: 300px;
+    height: 400px;
+    margin-left: 35%;
+    padding-top: 20px;
+    border: 2px solid white;
+}
+body{
+    background-color: #bdb76b;
+    
+    
+}
+.submit{
+    border-radius: 2px;
+    text-decoration: none;
+    border-radius: 40px;
+    
+    
+}
+
+

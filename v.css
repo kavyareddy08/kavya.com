@@ -1,0 +1,21 @@
+body{
+ 
+    background-image: url(BeautyPlus_20180715154518279_save.jpg);
+color: lightsalmon;
+background-repeat: no-repeat;
+
+}
+h1{
+    color: magenta;
+    font-style: italic;
+
+}
+h4{
+    color: maroon;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h2{
+    color: mediumspringgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
